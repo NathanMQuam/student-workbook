@@ -19,7 +19,7 @@ Read Building Blocks Of Web Development > Cheating At Design and answer the foll
 
 ### My Response
 
-1. 
+1. Using font color/contrast to control hierarchy instead of font-size. I frequently run into the issue of an unimportant line of text ending up too small to read. 
 
 2. 
 
