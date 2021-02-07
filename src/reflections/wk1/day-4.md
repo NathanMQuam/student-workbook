@@ -4,6 +4,9 @@ Nathan Quam
 ---
 
 ## Afternoon Project
+My Partner Project with Jordan:
+[Mock](https://www.figma.com/file/JxOdxBo7L7GoNck4RBc2qZ/Gen-of-Deek-Clone-Site?node-id=0%3A1)
+[Website Repository](https://github.com/JordanWilker/Den-of-Geek)
 
 ---
 

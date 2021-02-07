@@ -3,10 +3,6 @@ Nathan Quam
 
 ---
 
-
-
----
-
 ## Daily Journal
 
 Read Building Blocks Of Web Development > GIT 101 and answer the following questions
