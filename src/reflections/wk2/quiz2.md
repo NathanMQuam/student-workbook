@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+  Let, Var, and Const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+  A function is a block of code held within an object, the function has a set of inputs and returns an output.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+  [2], because arrays are index 0 based, 'apple' is 0, 'banana' is 1, and 'pineapple' is 2
 ```
 **5.** With these two objects: 
 ```js
@@ -32,7 +32,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+  you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
