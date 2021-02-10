@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Rock - Paper - Scissors, Shoot!)[]
+(Rock - Paper - Scissors, Shoot!)[https://github.com/NathanMQuam/Rock-Paper-Scissors]
 
 ---
 ---
