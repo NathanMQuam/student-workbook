@@ -10,11 +10,20 @@
 ```
   A function is a block of code held within an object, the function has a set of inputs and returns an output.
 ```
-<!-- TODO: -->
+
 **3.** What are the `SOLID` principles?
 <!-- enter your answer in the space below -->
 ```
-
+  ***S***
+    * Single-Responsibility
+  ***O***
+    * Open-Closed
+  ***L***
+    * Liskov Substitution
+  ***I***
+    * Interface Segregation
+  ***D***
+    * Dependency Inversion
 ```
 **4.** Given this array: 
 ```js
@@ -56,21 +65,33 @@ This is the 'Increment Expression,' which is a line of code that is always run a
   "Document Object Model"
 ```
 
-<!-- TODO: -->
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter your answer in the space below -->
 ```
+  There are 6 'Primitives':
+  * Undefined
+  * Boolean
+  * Number
+  * String
+  * BigInt
+  * Symbol
 
+  2 'Structural Types':
+  * Object
+  * Function
+
+  and 1 'Structural Root' primitive:
+  * Null
 ```
-<!-- TODO: -->
+
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter your answer in the space below -->
 ```
-
+A 'parameter' is the name of a variable in the function parenthesis() that the function uses. An 'argument' is the actual variable that is passed into a function when it is called/invoked.
 ```
-<!-- TODO: -->
+
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter your answer in the space below -->
 ```
-
+a 'primitive' value is a simple value assigned to a variable. A 'reference' value is a reference to the complex object, instead of the entire object being the value.
 ```
