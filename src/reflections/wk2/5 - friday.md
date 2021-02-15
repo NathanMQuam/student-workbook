@@ -3,16 +3,9 @@ Nathan Quam
 
 ---
 
-
+(Clicker Challenge)[https://github.com/NathanMQuam/Clicker-Challenge]
 
 ---
 ---
 
-## Daily Journal
-
-
-
-### My Response
-1. 
-2. 
-3. 
+## Weekly Reflections (Optional)
