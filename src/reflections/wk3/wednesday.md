@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Quam's List)[https://github.com/NathanMQuam/Quams-List]
 
 ---
 ---
