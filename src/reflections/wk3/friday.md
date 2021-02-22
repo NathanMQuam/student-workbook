@@ -3,21 +3,14 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Task Master)[https://github.com/NathanMQuam/Task-Master]
 
 ---
 ---
 
 ## Daily Journal
 
-
-
-1. 
-2. 
-3. 
+Weekly Reflection
 
 ### My Responses
 
-1. 
-2. 
-3. 
