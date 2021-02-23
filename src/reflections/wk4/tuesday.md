@@ -3,21 +3,26 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Extending Greg'sList)[link.com]
 
 ---
 ---
 
 ## Daily Journal
 
+Read Asynchronous Code > JavaScript Promises and answer the following questions
 
+1. What are the three states of a Promise?
+```
 
-1. 
-2. 
-3. 
+```
 
-### My Responses
+2. How do promises seek to resolve the issues of "callback hell"?
+```
 
-1. 
-2. 
-3. 
+```
+
+3. What is the difference between .then() and .catch()?
+```
+
+```
