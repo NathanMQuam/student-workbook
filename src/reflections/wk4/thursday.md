@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Music is fun)[https://github.com/NathanMQuam/Music-is-Fun]
 
 ---
 ---

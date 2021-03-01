@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Pokedex API)[https://github.com/NathanMQuam/pokedex-api]
 
 ---
 ---

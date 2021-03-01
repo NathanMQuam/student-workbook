@@ -3,26 +3,6 @@ Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+(Inspiration)[https://github.com/NathanMQuam/Inspiration]
 
 ---
----
-
-## Daily Journal
-
-
-
-1. 
-```
-
-```
-
-2. 
-```
-
-```
-
-3. 
-```
-
-```
