@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Extending Greg'sList)[link.com]
+[Extending Greg'sList](link.com)
 
 ---
 ---

@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Nathan's Poke-Zoo)[https://github.com/NathanMQuam/zoo-keeper]
+[Nathan's Poke-Zoo](https://github.com/NathanMQuam/zoo-keeper)
 
 ---
 ---

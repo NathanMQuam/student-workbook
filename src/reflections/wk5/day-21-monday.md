@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Borger Shaq)[https://github.com/NathanMQuam/burger-shack-node-api]
+[Borger Shaq](https://github.com/NathanMQuam/burger-shack-node-api)
 
 ---
 ---

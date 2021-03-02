@@ -1,9 +1,9 @@
-# Day 
+# Day 25
 Nathan Quam
 
 ---
 
-(Afternoon Challenge)[link.com]
+[Afternoon Challenge](link.com)
 
 ---
 ---

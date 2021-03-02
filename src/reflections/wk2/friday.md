@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Clicker Challenge)[https://github.com/NathanMQuam/Clicker-Challenge]
+[Clicker Challenge](https://github.com/NathanMQuam/Clicker-Challenge)
 
 ---
 ---

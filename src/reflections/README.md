@@ -1,12 +1,10 @@
 # Find More About me here:
 
 ## Social Media
-  - [Follow Me on Twitter](https://twitter.com)
   - [Connect on LinkedIn](https://linkedin.com)
 ## About Me
-  - [My Github](https://github.com)
-  - [Portfolio](https://github.com)
+  - [My Github](https://github.com/NathanMQuam)
+  - [Portfolio](https://github.com/NathanMQuam)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Email: Nathan.M.Quam@gmail.com
   

@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Quam's List)[https://github.com/NathanMQuam/Quams-List]
+[Quam's List](https://github.com/NathanMQuam/Quams-List)
 
 ---
 ---

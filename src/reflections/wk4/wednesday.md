@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Pokedex API)[https://github.com/NathanMQuam/pokedex-api]
+[Pokedex API](https://github.com/NathanMQuam/pokedex-api)
 
 ---
 ---

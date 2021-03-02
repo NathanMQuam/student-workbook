@@ -3,6 +3,6 @@ Nathan Quam
 
 ---
 
-(Inspiration)[https://github.com/NathanMQuam/Inspiration]
+[Inspiration](https://github.com/NathanMQuam/Inspiration)
 
 ---

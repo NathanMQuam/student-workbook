@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Partner Project, Shopping Page)[https://github.com/JordanWilker/Week-3-Day-4]
+[Partner Project, Shopping Page](https://github.com/JordanWilker/Week-3-Day-4)
 
 ---
 ---

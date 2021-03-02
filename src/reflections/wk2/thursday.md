@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Slap Game, slap Alduin the World Eater!)[https://elviskurtovic.github.io/SlapGame/]
+[Slap Game, slap Alduin the World Eater!](https://elviskurtovic.github.io/SlapGame/)
 
 ---
 ---

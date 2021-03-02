@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(JavaScript Challenges)[https://github.com/NathanMQuam/Javascript-Challenges]
+[JavaScript Challenges](https://github.com/NathanMQuam/Javascript-Challenges)
 
 ---
 ---

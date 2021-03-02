@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(JavaScript challenges 2, electric boogaloo)[https://github.com/NathanMQuam/js-challenges-2]
+[JavaScript challenges 2, electric boogaloo](https://github.com/NathanMQuam/js-challenges-2)
 
 ---
 ---

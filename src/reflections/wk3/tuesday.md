@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Vendr)[https://github.com/NathanMQuam/Vendr]
+[Vendr](https://github.com/NathanMQuam/Vendr)
 
 ---
 ---

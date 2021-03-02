@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Task Master)[https://github.com/NathanMQuam/Task-Master]
+[Task Master](https://github.com/NathanMQuam/Task-Master)
 
 ---
 ---

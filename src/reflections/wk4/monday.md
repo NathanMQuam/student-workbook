@@ -4,7 +4,7 @@ Nathan Quam
 
 ---
 
-(Open Trivia Game)[https://github.com/NathanMQuam/open-trivia-game]
+[Open Trivia Game](https://github.com/NathanMQuam/open-trivia-game)
 
 ---
 ---

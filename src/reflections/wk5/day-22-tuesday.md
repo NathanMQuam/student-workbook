@@ -3,8 +3,8 @@ Nathan Quam
 
 ---
 
-(Greg's-List front-end)[https://github.com/NathanMQuam/gregs-list-axios]
-(Greg's-List node/mongodb server)[https://github.com/NathanMQuam/greg-mongo-list]
+[Greg's-List front-end](https://github.com/NathanMQuam/gregs-list-axios)
+[Greg's-List node/mongodb server](https://github.com/NathanMQuam/greg-mongo-list)
 
 ---
 ---

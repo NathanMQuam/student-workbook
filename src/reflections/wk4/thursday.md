@@ -3,7 +3,7 @@ Nathan Quam
 
 ---
 
-(Music is fun)[https://github.com/NathanMQuam/Music-is-Fun]
+[Music is fun](https://github.com/NathanMQuam/Music-is-Fun)
 
 ---
 ---
