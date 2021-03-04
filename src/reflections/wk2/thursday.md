@@ -25,6 +25,6 @@ Read Intro to JS > The Mistakes I Made As a Beginner Programmer and answer the f
 3. 
 * "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
     --- John Woods"
-* "You should just assume that any undocumented code that you do not understand is a candidate for being bad. Question it. Ask about it. ```git blame``` it!
+* "You should just assume that any undocumented code that you do not understand is a candidate for being bad. Question it. Ask about it. `git blame` it!
 * "You are a forever code learner. You need to accept that. Most code reviews will teach you something you did not know. Categorize them as a learning resource."
 * "You are a human and your brain needs breaks. Your body needs breaks. You will often be in the zone and forget to take breaks. - Come back to the code with fresh eyes."
