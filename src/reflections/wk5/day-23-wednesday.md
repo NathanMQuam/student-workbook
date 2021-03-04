@@ -10,7 +10,7 @@ Nathan Quam
 
 ## Daily Journal
 
-Read Servers with Node/Express > MongoDb Relationships and answer the following questions
+Read Servers with Node/Express > Mongoose 101: Working with subdocuments and answer the following questions
 
 1. In simple terms what is a sub-document?
 `A sub-document is an entire object or document that is literally contained within another. As opposed to storing only a foreign key reference to a separate document within the original.`
