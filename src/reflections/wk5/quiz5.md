@@ -49,18 +49,19 @@ let Schema = mongoose.Schema;
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 `
-
+Middleware is a communication bus between two endpoints, which handles and manages all information going in and out of it. An example of this is an API, where a client requests a specific set of information from the API, the API goes to and gathers that information from a database/server and returns the requested information back to the client.
 `
 
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks.
 <!-- enter you answer in the space below -->
 `
-
+Request
+Response
 `
 
 **9.**
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 `
-
+https://endpoint/tag/:winter
 `
