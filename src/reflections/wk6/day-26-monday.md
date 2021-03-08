@@ -4,7 +4,7 @@ Nathan Quam
 
 ---
 
-[Vue Playground](link.com)
+[Vue Playground](https://github.com/NathanMQuam/Vue-Playground)
 
 ---
 ---
