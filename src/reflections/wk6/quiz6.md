@@ -28,7 +28,7 @@ Liskov Substitution principle
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 `
-
+Router-link
 `
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
@@ -38,12 +38,12 @@ AppState is the storage for "global" variables (technically not global, but clos
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 `
-
+The services handle the manipulation and flow of data, such as actually sending information to or from an api.
 `
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 `
-
+App.vue and index.html
 `
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
