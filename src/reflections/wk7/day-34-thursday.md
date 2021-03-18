@@ -3,7 +3,8 @@ Nathan Quam
 
 ---
 
-[Afternoon Challenge](link.com)
+[KanBan - Client Repo](https://github.com/NathanMQuam/KanBan-Client)
+[KanBan - Server Repo](https://github.com/NathanMQuam/KanBan-Server)
 
 ---
 ---
