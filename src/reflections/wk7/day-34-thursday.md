@@ -15,7 +15,7 @@ Reflect on your partner project and answer the following questions
 
 1. Which principles from this weeks reading did you implement?
 `
-
+We used partner programming, with the driver and navigator. 
 `
 
 2. What went well?
