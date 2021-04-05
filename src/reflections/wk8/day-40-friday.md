@@ -4,6 +4,6 @@ Nathan Quam
 
 ---
 
-[Capstones](https://github.com/JordanWilker/Prompetition)
+[Prompetition Capstone](https://github.com/JordanWilker/Prompetition)
 
 ---
