@@ -12,20 +12,4 @@ Nathan Quam
 
 ## Daily Journal
 
-1.
-
-`
-
-`
-
-2.
-
-`
-
-`
-
-3.
-
-`
-
-`
+Weekly Reflection (Optional)
