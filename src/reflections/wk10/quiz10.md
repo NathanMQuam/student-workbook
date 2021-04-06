@@ -1,6 +1,5 @@
 # C# Fundamentals
 
-
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 `
@@ -16,7 +15,9 @@
 `
 
 `
+
 ## Example 1
+
 ```c#
 abstract class Car
 {
@@ -27,6 +28,7 @@ abstract class Car
   }
 }
 ```
+
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 `

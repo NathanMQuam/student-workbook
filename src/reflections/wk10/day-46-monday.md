@@ -4,7 +4,7 @@ Nathan Quam
 
 ---
 
-[Afternoon Challenge](link.com)
+[Rock Paper Scissors](https://github.com/NathanMQuam/C-Sharp-Rock-Paper-Scissors)
 
 ---
 ---
