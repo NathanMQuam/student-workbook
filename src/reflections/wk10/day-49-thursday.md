@@ -4,7 +4,7 @@ Nathan Quam
 
 ---
 
-[Afternoon Challenge](link.com)
+[A Knight's Tail](https://github.com/NathanMQuam/A-Knights-Tail)
 
 ---
 ---

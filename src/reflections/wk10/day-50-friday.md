@@ -4,7 +4,7 @@ Nathan Quam
 
 ---
 
-[Afternoon Challenge](link.com)
+[Blogger](https://github.com/NathanMQuam/Blogger)
 
 ---
 ---
